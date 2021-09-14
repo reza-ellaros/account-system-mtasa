@@ -1,0 +1,12 @@
+<meta>
+  <script src="server.lua" type="server"/>
+  <script src="client.lua" type="client"/>
+     <file src="aks/1.png" />
+    <file src="aks/2.png" />
+    <file src="aks/3.png" />
+    <file src="aks/4.png" />
+    <file src="aks/5.png" />
+    <file src="aks/6.png" />
+  </meta>
+
+
